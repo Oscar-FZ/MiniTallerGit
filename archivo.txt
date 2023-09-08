@@ -1,0 +1,2 @@
+Esto es una prueba para el minitaller de git
+Realizando un cambio al repositorio remoto
